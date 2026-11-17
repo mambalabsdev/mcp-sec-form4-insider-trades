@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-sec-form4-insider-trades": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-sec-form4-insider-trades"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

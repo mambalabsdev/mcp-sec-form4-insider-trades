@@ -1,0 +1,43 @@
+{
+  "name": "mcp-sec-form4-insider-trades",
+  "displayName": "SEC Form 4 Insider Trades",
+  "version": "1.0.0",
+  "description": "MCP server for SEC Form 4 Insider Trades: insider buys, sells, and option trades from EDGAR.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-sec-form4-insider-trades",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "sec",
+    "edgar",
+    "form-4",
+    "insider-trading",
+    "insider-trades",
+    "stock-trades",
+    "financial-data",
+    "investor-research",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "sec",
+    "edgar",
+    "form-4",
+    "insider-trading",
+    "insider-trades",
+    "stock-trades",
+    "financial-data",
+    "investor-research",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}

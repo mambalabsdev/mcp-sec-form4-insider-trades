@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-sec-form4-insider-trades",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for SEC Form 4 Insider Trades: insider buys, sells, and option trades from EDGAR.",
   "type": "module",
   "bin": {
